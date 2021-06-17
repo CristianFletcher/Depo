@@ -1,7 +1,7 @@
 import React from "react"
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <div>Test modificare titlu</div>
 }
 add_img() { 
 	var img = document.createElement('img'); 
